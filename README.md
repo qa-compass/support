@@ -1,7 +1,7 @@
 
 # Support
 
-Welcome to the support page for the [QA Compass tool](https://qa-landing.vercel.app/). This page provides information on how to create new requests and find additional resources for support.
+Welcome to the support page for the [QA Compass tool](https://qa-compass.com/). This page provides information on how to create new requests and find additional resources for support.
 
 ## Creating New Requests
 
@@ -17,20 +17,22 @@ To create new requests in the public GitHub repository linked to [https://github
 
 For further assistance or to reach out for support, you can use the following methods:
 
-- Email: [info@qa-compass.com](mailto:info@qa-compass.com)
+- Email: [testinfo@qa-compass.com](mailto:testinfo@qa-compass.com)
 
-## Project Roadmap
+<!-- ## Project Roadmap
 
 Stay informed about the future direction of the project. The roadmap includes upcoming features, ongoing development, and estimated timelines.
 
-- [Project Roadmap](https://github.com/qa-compass/roadmap)
+- [Project Roadmap](https://github.com/qa-compass/roadmap) -->
 
 ## Documentation Links
 
 For additional documentation, please refer to the following resources:
 
-- [Landing page](https://qa-landing.vercel.app/)
-- [Dashboard](https://qa-dashboard-seven.vercel.app/)
+- [Landing page](https://qa-compass.com)
+- [Dashboard](https://dashboard.qa-compass.com/)
+- [Playground](https://docs.qa-compass.com/playground/)
+- [Documentation](https://docs.qa-compass.com/)
 
 We hope this support page helps you effectively raise issues, concerns or feature requests. If you have any questions or need further assistance, please don't hesitate to reach out using the contact information provided.
 
