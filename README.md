@@ -1,23 +1,18 @@
-
 # Support
 
-Welcome to the support page for the [QA Compass tool](https://qa-compass.com/). This page provides information on how to create new requests and find additional resources for support.
+Welcome to the support page for the [QA Compass tool](https://qa-compass.com/).
 
-## Creating New Requests
+## Bugs
 
-To create new requests in the public GitHub repository linked to [https://github.com/qa-compass/support](https://github.com/qa-compass/support), follow these steps:
+For bugs you can open a new [issue](https://github.com/qa-compass/support/issues).
 
-1. Navigate to the repository page.
-2. Click on the "Issues" tab.
-3. Select "New Issue" to open the issue creation form.
-4. Provide a detailed description of the request, including relevant information such as the nature of the issue, steps to reproduce, and any suggested improvements.
-5. Click "Submit new issue" to add the request to the repository for review and prioritization by our team.
+## Feature Requests
+
+For feature requests you can start a new [discussion](https://github.com/qa-compass/support/discussions/categories/ideas)
 
 ## Contact Information
 
-For further assistance or to reach out for support, you can use the following methods:
-
-- Email: [testinfo@qa-compass.com](mailto:testinfo@qa-compass.com)
+For further assistance you can send us an email to [testinfo@qa-compass.com](mailto:testinfo@qa-compass.com).
 
 <!-- ## Project Roadmap
 
@@ -33,6 +28,3 @@ For additional documentation, please refer to the following resources:
 - [Dashboard](https://dashboard.qa-compass.com/)
 - [Playground](https://docs.qa-compass.com/playground/)
 - [Documentation](https://docs.qa-compass.com/)
-
-We hope this support page helps you effectively raise issues, concerns or feature requests. If you have any questions or need further assistance, please don't hesitate to reach out using the contact information provided.
-
