@@ -12,7 +12,7 @@ For feature requests you can start a new [discussion](https://github.com/qa-comp
 
 ## Contact Information
 
-For further assistance you can send us an email to [testinfo@qa-compass.com](mailto:testinfo@qa-compass.com).
+For further assistance you can send us an email to [testinfo@qa-compass.com](mailto:testinfo@qa-compass.com) or [book a slot](https://cal.com/qa-compass) for talking to us directly.
 
 <!-- ## Project Roadmap
 
